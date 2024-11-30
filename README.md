@@ -2,6 +2,9 @@
 
 An opinionated example for modern Python projects using best-in-class tooling.
 
+Although this is not mean't to be used as a template directly, it is probably an
+okay starting point for greenfield projects.
+
 ## Features
 
 - 📦 [uv](https://github.com/astral-sh/uv) for blazingly fast package management
