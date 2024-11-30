@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"EditorConfig.EditorConfig", // EditorConfig support
+		"ms-python.python", // Python support
+		"ms-python.debugpy", // Python debugging
+		"ms-python.vscode-pylance", // Python type checking (pyright)
+		"charliermarsh.ruff", // Python linting and formatting
+		"tamasfe.even-better-toml", // TOML support
+		"redhat.vscode-yaml", // YAML support
+		"Gruntfuggly.todo-tree", // to-do items listing
+		"nefrob.vscode-just-syntax" // justfile syntax highlighting
+	]
+}
