@@ -52,7 +52,7 @@ def main() -> None:
     """Main entry point for the tool."""
     try:
         config = Config(max_length=100, prefix="prefix_", filter_empty=True)
-        items = ["example", "  test  ", "template"]
+        items = ["example", "  test  ", "template", "        "]
         result = process_items(items, config)
         logger.info("Processed results: %s", result)
     except Exception as e:
